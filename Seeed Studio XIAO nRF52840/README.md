@@ -9,6 +9,6 @@
 
 
 
-Puedes obtener mas informacion acerca del proyecto en nuestro canal de youtube:
+Puedes obtener mas informacion acerca de la placa en nuestro canal de youtube:
 <br>
-https://youtu.be/mZ37ACNlzDM
+https://youtu.be/Pdu1sGoPA5w
